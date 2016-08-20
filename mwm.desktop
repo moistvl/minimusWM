@@ -1,0 +1,5 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mwm
+Comment=minimus Window Manager a WMFS Fork
+Exec=/usr/bin/mwm
